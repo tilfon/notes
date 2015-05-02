@@ -8,7 +8,7 @@
 	npm install -g cordova
 ```
 
-这是是安装了 `cordova-cli` 和 `plugman`。
+这里只是安装了 `cordova-cli` 和 `plugman`。
 
 ## iOS环境
 
@@ -36,7 +36,7 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 	
 # cordova 打包相关
 
-* **添加/删除环境**
+* **添加/删除平台**
 	```
 cordova platform add ios
 cordova platform rm ios
